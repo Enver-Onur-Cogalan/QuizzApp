@@ -15,7 +15,7 @@ export const quesitons = [
         id: 3,
         quesitons: "Hasbihal, ne demektir?",
         options: ['Gürültü', 'Geçmiş', 'Sohbet', 'Özlem'],
-        answer: 'Ankara',
+        answer: 'Sohbet',
     },
     {
         id: 4,
@@ -34,5 +34,59 @@ export const quesitons = [
         quesitons: "'Azı dişi' hangisinin eş anlamlısıdır?",
         options: ['Sindirici diş', 'Öğütücü diş', 'Koparıcı diş', 'Kesici diş'],
         answer: 'Öğütücü diş',
+    },
+    {
+        id: 7,
+        quesitons: "Hangi ünlü yapıyı görmek isteyen birinin gitmesi gereken ülke Mısır'dır?",
+        options: ['Angkor Vat', 'Keops Piramidi', 'Tac Mahal', 'Pisa Kulesi'],
+        answer: 'Keops Piramidi',
+    },
+    {
+        id: 8,
+        quesitons: "Osmanlılarda, genel olarak Tanzimat Dönemi'nden Meşrutiyet Dönemi'ne kadar kullanılmış olan 'istanbulin' nedir?",
+        options: ['Bir tür kadın şapkası', 'Bir tür erkek ceketi', 'Bir tür nefesli çalgı', 'Bir tür ateşli silah'],
+        answer: 'Bir tür erkek ceketi',
+    },
+    {
+        id: 9,
+        quesitons: "İnternetteki alışveriş sitelerinde, müşterilerin anlık olarak 'sipariş takibi' yapmasına olanak sağlayan genellikle hangi adda bir sayfa bulunur?",
+        options: ['Siparişimin hali hatrı nasıl?', 'Siparşimin canı mı sıkıldı?', 'Siparişim gelmek istemiyor mu?', 'Siparişim nerede?'],
+        answer: 'Siparişim nerede?',
+    },
+    {
+        id: 10,
+        quesitons: "'Bonjur' hangi anlamda kullanılan bir sözdür?",
+        options: ['Günaydın, merhaba', 'Güle güle, görüşürüz', 'Kendine iyi bak, hoşçakal', 'İyi uykular, tatlı rüyalar'],
+        answer: 'Günaydın, merhaba',
+    },
+    {
+        id: 11,
+        quesitons: "'Elzem' ne demektir?",
+        options: ['Çok gerekli, vazgeçilmez', 'Lüzumsuz, gereksiz', 'Enzim salgılayan yapı', 'Burun akıntısı'],
+        answer: 'Çok gerekli, vazgeçilmez',
+    },
+    {
+        id: 12,
+        quesitons: "Hangi meyvenin 'Valensiya' adıyla satılan bir çeşidi vardır?",
+        options: ['Karpuz', 'Şeftali', 'Kivi', 'Portakal'],
+        answer: 'Portakal',
+    },
+    {
+        id: 13,
+        quesitons: "Hangi iki Osmanlı padişahı kardeş değildir?",
+        options: [' II. Mustafa ve III. Ahmed', 'III. Selim ve II. Mahmud', 'Abdülmecid ve Abdülaziz', 'V. Mehmed ve V. Murad'],
+        answer: 'III. Selim ve II. Mahmud',
+    },
+    {
+        id: 14,
+        quesitons: "Okullarda yoklama yapılırken adı söylenen öğrenci genellikle hangisini yapar?",
+        options: ['"Burada!" diye bağırır', '"Neden ben?" diye sorar', '"Buyrun benim" der', '"Yoldayım" diye mesaj atar'],
+        answer: '"Burada!" diye bağırır',
+    },
+    {
+        id: 15,
+        quesitons: "4 yanlışın 1 doğruyu götürdüğü 100 soruluk çoktan seçmeli bir sınavda 9 boşu ve 8 yanlışı olan birinin neti kaçtır?",
+        options: ['83', '81', '79', '77'],
+        answer: '81',
     },
 ]
